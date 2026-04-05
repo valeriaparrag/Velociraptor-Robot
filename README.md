@@ -18,7 +18,7 @@ This project is a differential drive robot with an ultrasonic sensor that implem
 
 ## Software architecture
 ### ESP32
-The ESP32 is a TCP server on the port 8080; it receives the measures done by the ultrasound sensor, sending the command to the DC motors to stop (velocity=0).
+The ESP32 is a TCP server on the port 8080; it receives the measures done by the ultrasound sensor, sending the command to the DC motors to stop (velocity=0) or to change their direction.
 ### ROS2 nodes
 The ROS 2 system is based on a publisher-subscriber architecture, where nodes communicate through topics to control the robot.
 
