@@ -113,9 +113,8 @@ ros2 topic pub wifi_transmitter std_msgs/msgs/string “data: ‘R:40’” -- o
 
 ## Block diagram of the system
 
-
 ## Final product
-https://youtube.com/shorts/Rtv1JAVCud8
+[![Video](https://img.youtube.com/vi/Rtv1JAVCud8/0.jpg)](https://youtube.com/shorts/Rtv1JAVCud8)
 
 ## Authors
 - *Valeria Andrea Parra García* – valeriaparrag@javeriana.edu.co
